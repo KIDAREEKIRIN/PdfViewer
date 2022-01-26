@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PdfViewer</string>
+    <string name="file_provider_authority" translatable="false">myfileprovider</string>
+</resources>
